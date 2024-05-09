@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/jao-rf/jao-rf/output/snake.svg" alt="Snake animation" />
-
 ![de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478](https://github.com/jao-rf/caixa-de-som/assets/169364072/c0c39ea1-c12d-4d6f-9545-0db8dcc89fa4)
 
 
