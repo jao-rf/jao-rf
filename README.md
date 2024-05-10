@@ -1,4 +1,8 @@
 ### Opa, bão ? 👋
+Meio de contato:
+![jao_rf_qr](https://github.com/jao-rf/jao-rf/assets/169364072/c94fc1be-925a-4e41-83b1-86237252f1f8)
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/jao-rf/count.svg?"  />
 </div>
